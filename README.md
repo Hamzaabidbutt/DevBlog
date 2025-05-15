@@ -4,3 +4,4 @@ I have just designed this blog for my practice. I am not a master but i am tryin
 Read <a href="https://sadshyari.com/"> sad shayari in Hindi</a>.<br>
 Read <a href="https://attitudeshyari.com/"> Hindi Attitude Shayari</a>.<br>
 read <a href="https://sadshayar.com/">Sad Shayari Hindi</a>
+read <a href="https://attitudeshayri.com/">Attitude Shayari Hindi</a>
